@@ -7,9 +7,9 @@
 Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei!  
 
 #### Personal info:
-- 💻 Programming languages is **c/c++, Rust, js, ts, python and shell**.
+- 💻 Programming languages is **C/C++, Rust, js, ts, python and shell**.
 - 🔭 I’m currently working on **Xiaomi**.
-- 🌱 I’m currently learning webassembly and Compilation principle.
+- 🌱 I’m currently learning webassembly and compilation principle.
 - 👯 I’m looking to collaborate on opensource and group projects.
 
 #### Other tools: 
