@@ -12,10 +12,9 @@ Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei
 - 🌱 I’m currently learning webassembly and compilation principle.
 - 👯 I’m looking to collaborate on opensource and group projects.
 
-#### Other tools: 
+#### Other tools:
 <p>
-   <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=LevelCA&show_icons=true&hide_border=true" />
-  
+   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=LevelCA&show_icons=true&hide_border=false" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
