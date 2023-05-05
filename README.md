@@ -8,13 +8,13 @@ Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
-
-- 💻 coding language is c/c++,Rust,js,ts,pytho and shell.
+#### Personal info:
+- 💻 Programming languages is c/c++,Rust,js,ts,pytho and shell.
 - 🔭 I’m currently working on Xiaomi.
 - 🌱 I’m currently learning webassembly and Compilation principle.
 - 👯 I’m looking to collaborate on opensource and group projects.
 
-#### :computer: Programming languages and tools: 
+#### Other tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=LevelCA&show_icons=true&hide_border=true" />
 
@@ -31,4 +31,4 @@ Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull</sub>
