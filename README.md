@@ -6,8 +6,6 @@
 
 Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
 #### Personal info:
 - 💻 Programming languages is **c/c++, Rust, js, ts, python and shell**.
 - 🔭 I’m currently working on **Xiaomi**.
@@ -30,5 +28,3 @@ Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull</sub>
