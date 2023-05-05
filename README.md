@@ -9,8 +9,8 @@ Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### Personal info:
-- 💻 Programming languages is c/c++,Rust,js,ts,pytho and shell.
-- 🔭 I’m currently working on Xiaomi.
+- 💻 Programming languages is **c/c++, Rust, js, ts, python and shell**.
+- 🔭 I’m currently working on **Xiaomi**.
 - 🌱 I’m currently learning webassembly and Compilation principle.
 - 👯 I’m looking to collaborate on opensource and group projects.
 
