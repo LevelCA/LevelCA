@@ -29,11 +29,11 @@ Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
