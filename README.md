@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LevelCA)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:levelcodezly@gmail.com)
 
-Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei!  
+**Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei!  **
 
 #### Personal info:
 <!-- Any image aligned to the right. Beware the width -->
