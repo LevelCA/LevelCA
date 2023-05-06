@@ -8,7 +8,7 @@ Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei
 
 #### Personal info:
 <!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 💻 Programming languages is **C/C++, Rust, js, ts, python and shell**.
 - 🔭 I’m currently working on **Xiaomi**.
@@ -17,7 +17,7 @@ Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei
 
 #### Other info:
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=LevelCA&show_icons=true&theme=merko" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=LevelCA&show_icons=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
