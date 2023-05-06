@@ -14,7 +14,7 @@ Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei
 
 #### Other info:
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=LevelCA&show_icons=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=LevelCA&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
