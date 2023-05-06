@@ -2,19 +2,18 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=LevelCA&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
 
-### Hi there 👋 
-### This is level!
+### Hi there 👋 This is level!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LevelCA)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:levelcodezly@gmail.com)
 
-Welcome to my Github page! I am level and I am currently working in Wuhan, Hubei！
+Welcome to my Github page! I am level , and currently working in Wuhan, Hubei！
 
 #### Personal info:
 <!-- Any image aligned to the right. Beware the width -->
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 💻 Programming languages is **C/C++, Rust, js, ts, python and shell**.
+- 💻 Programming languages are **C/C++, Rust, js, ts, python shell and so on**.
 - 🔭 I’m currently working on **Xiaomi**.
 - 🌱 I’m currently learning webassembly and compilation principle.
 - 👯 I’m looking to collaborate on opensource and group projects.
