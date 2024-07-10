@@ -2,12 +2,12 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=LevelCA&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
 
-### Hi there 👋 , this is level!
+### Hi there👋, this is level!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LevelCA)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:levelcodezly@gmail.com)
 
-Welcome to my Github page! I am level , and currently working in Wuhan, Hubei！
+Welcome to my Github page! I am level, and currently working in NanJin, JiangSu！
 
 #### Personal info:
 <!-- Any image aligned to the right. Beware the width -->
