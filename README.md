@@ -30,11 +30,8 @@ Welcome to my Github page! I am level, and currently working in NanJing, JiangSu
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tesla/tesla-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></code>
 </p>
